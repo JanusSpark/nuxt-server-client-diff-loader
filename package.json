@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-server-client-diff-loader",
+  "version": "1.0.3",
+  "description": "nuxt server&client side differentiate",
+  "main": "loader.js",
+  "files": [
+    "loader.js"
+  ],
+  "scripts": {
+    "build": "rollup index.js --file loader.js --format cjs"
+  },
+  "keywords": [
+    "nuxt",
+    "loader"
+  ],
+  "author": "janus",
+  "license": "ISC",
+  "dependencies": {
+    "loader-utils": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.8.1",
+    "rollup": "^2.26.11"
+  }
+}
