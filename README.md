@@ -1,5 +1,6 @@
-一个可以在nuxt编译阶段通过解析代码中的注释，分割服务端或者客户端代码的工具
-A tool that can split the server or client code by parsing the comments in the code during the nuxt compilation stage
+一个可以在nuxt编译阶段通过解析代码中的注释，分割服务端或者客户端代码的工具  
+A tool that can split the server or client code by parsing the comments in the code during the nuxt compilation stage  
+
 安装
 ```
 tnpm i nuxt-server-client-diff-loader
