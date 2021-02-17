@@ -3,7 +3,7 @@ A tool that can split the server or client code by parsing the comments in the c
 
 安装
 ```
-tnpm i nuxt-server-client-diff-loader
+npm i nuxt-server-client-diff-loader
 ```
 
 使用
