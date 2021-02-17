@@ -1,6 +1,6 @@
 {
   "name": "nuxt-server-client-diff-loader",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "nuxt server&client side differentiate",
   "main": "loader.js",
   "files": [
@@ -13,7 +13,11 @@
     "nuxt",
     "loader"
   ],
-  "author": "janus",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JanusSpark/nuxt-server-client-diff-loader"
+  },
+  "author": "janusspark",
   "license": "ISC",
   "dependencies": {
     "loader-utils": "^2.0.0"
